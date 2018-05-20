@@ -1,0 +1,14 @@
+E:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\CardProject\bin\Release\CardProject.exe
+E:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\CardProject\bin\Release\CardProject.pdb
+E:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\CardProject\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\CardProject\obj\x86\Release\CardProject.exe
+E:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\CardProject\obj\x86\Release\CardProject.pdb
+E:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\CardProject\CardProject\obj\x86\Release\CardProject.exe
+E:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\CardProject\CardProject\obj\x86\Release\CardProject.pdb
+E:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\CardProject\CardProject\bin\Release\CardProject.exe
+E:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\CardProject\CardProject\bin\Release\CardProject.pdb
+E:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\CardProject\CardProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\1\Downloads\Cards\CardProject\CardProject\obj\x86\Release\CardProject.exe
+C:\Users\1\Downloads\Cards\CardProject\CardProject\obj\x86\Release\CardProject.pdb
+C:\Users\1\Downloads\Cards\CardProject\CardProject\bin\Release\CardProject.exe
+C:\Users\1\Downloads\Cards\CardProject\CardProject\bin\Release\CardProject.pdb

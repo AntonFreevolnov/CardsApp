@@ -1,0 +1,9 @@
+E:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\CardProject\CardProject\bin\Debug\CardProject.exe
+E:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\CardProject\CardProject\bin\Debug\CardProject.pdb
+E:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\CardProject\CardProject\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\CardProject\CardProject\obj\x86\Debug\CardProject.exe
+E:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\CardProject\CardProject\obj\x86\Debug\CardProject.pdb
+C:\Users\1\Downloads\Cards\CardProject\CardProject\obj\x86\Debug\CardProject.exe
+C:\Users\1\Downloads\Cards\CardProject\CardProject\obj\x86\Debug\CardProject.pdb
+C:\Users\1\Downloads\Cards\CardProject\CardProject\bin\Debug\CardProject.exe
+C:\Users\1\Downloads\Cards\CardProject\CardProject\bin\Debug\CardProject.pdb
